@@ -1,5 +1,5 @@
 {
-  "kind": "Template",
+  "kind": "Templates",
   "apiVersion": "v1",
   "metadata": {
     "name": "nodejs-example",
